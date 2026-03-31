@@ -180,8 +180,3 @@ with st.sidebar:
               st.write(f" {output_text}")
 
 
-
-
- 
-    
-    
